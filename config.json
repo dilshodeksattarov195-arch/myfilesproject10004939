@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configearse",
+        "uuid": 13369873,
+        "checksum": "h3mwv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
